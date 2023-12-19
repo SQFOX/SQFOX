@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/697006121797419019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0s_q0" height="30" width="40" /></a>
+<a href="https://discord.gg/4dK8hbx9dZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0s_q0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
